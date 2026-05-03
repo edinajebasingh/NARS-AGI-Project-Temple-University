@@ -26,7 +26,6 @@ belief as two numbers: frequency (f) and confidence (c).
 |------|-------------|
 | final_report.pdf | Full 25-page project report |
 | AGI_project.ipynb | Google Colab notebook with all experiments |
-| nars_experiment_charts.py | Python code that generates all 5 charts |
 | presentation.pptx | Project presentation slides |
 | chart1_convergence.png | Stage 2 belief convergence chart |
 | chart2_contradiction.png | Stage 3 contradiction stress test chart |
