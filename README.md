@@ -24,7 +24,7 @@ belief as two numbers: frequency (f) and confidence (c).
 
 | File | Description |
 |------|-------------|
-| final_report.pdf | Full 25-page project report |
+| final.pdf | Full 25-page project report |
 | AGI_project.ipynb | Google Colab notebook with all experiments |
 | presentation.pptx | Project presentation slides |
 | chart1_convergence.png | Stage 2 belief convergence chart |
